@@ -34,6 +34,7 @@
     "react/jsx-props-no-spreading": "off",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
+    "no-unused-expressions": "off",
     "react/jsx-filename-extension": [
       1,
       {
@@ -50,7 +51,7 @@
         "ts": "never",
         "tsx": "never"
       }
-    ],
+    ]
   },
   "settings": {
     "import/resolver": {
